@@ -37,7 +37,6 @@ function Butwhy() {
           <img src="./images/butwhy2.png" alt="#" className="butwhy-img" />
         </div>
       </div>
-      <hr />
     </div>
   );
 }

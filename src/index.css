@@ -578,6 +578,7 @@ textarea {
     padding-bottom: 2rem;
 }
 
+
 @media (max-width:998px) {
 
     /* navbar */
@@ -682,7 +683,7 @@ textarea {
 
     .user-img {
         height: 150px;
-        width: 100%;
+        width: 200px;
     }
 
     .content {
