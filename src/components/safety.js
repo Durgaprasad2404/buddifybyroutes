@@ -2,9 +2,9 @@ import React from "react";
 
 function Safety() {
   return (
-    <div className="py-3 bg-secondary" id="safetyPrivacy">
+    <div className="py-2 bg-secondary" id="safetyPrivacy">
       <h1 className="heading-main my-3">Safety & Privacy</h1>
-      <section className="safety-container">
+      <section className="safety-container my-5">
         <div className="safety-con1">
           <h1 className="whyus-heading">WHY US?</h1>
           <p className="whyus-para">

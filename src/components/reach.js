@@ -24,7 +24,7 @@ function Touchin() {
   return (
     <div className="form-container py-3" id="touchIn">
       <h1 className="heading-main my-3">Reach Us</h1>
-      <form className="contact-form" onSubmit={handleSubmit}>
+      <form className="contact-form my-4" onSubmit={handleSubmit}>
         <div className="form-group">
           <label htmlFor="name">Name:</label>
           <input

@@ -15,7 +15,7 @@ function HomePage() {
       <div>
         <button className="button">Get Started</button>
       </div>
-      <div className="img-con">
+      <div className="img-con mt-3">
         <img src="./images/group.png" alt="" className="home-image" />
       </div>
     </div>

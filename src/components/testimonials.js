@@ -38,7 +38,7 @@ function Testimonials() {
   return (
     <div className="py-3" id="testimonials">
       <h1 className="heading-main my-3">Testimonials</h1>
-      <div className="slider-container px-5">
+      <div className="slider-container px-5 py-5">
         <Slider {...settings}>
           <div className=" text-center">
             <div className="my-3 title-con">

@@ -4,7 +4,7 @@ function Ourbuds() {
   return (
     <div className="ourbuds-bg-container" id="ourBuds">
       <h1 className="heading-main my-3">Our Buds</h1>
-      <div className="ourbuds-container">
+      <div className="ourbuds-container mt-3">
         <div className="ourbuds-con1">
           <div className="ourbuds-p1">
             <p className="our-para">

@@ -4,7 +4,7 @@ function Butwhy() {
   return (
     <div className="butwhy-container py-3" id="butWhy">
       <h1 className="heading-main my-3">But Why?</h1>
-      <div className="butwhy-con1">
+      <div className="butwhy-con1 mt-3">
         <div className="sub">
           <div>
             <p className="digit">8,00,000</p>

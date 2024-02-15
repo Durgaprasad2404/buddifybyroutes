@@ -12,8 +12,8 @@ function Package() {
   return (
     <>
       <section className="package-container" id="packagePricing">
-        <h1 className="heading-main my-3">Package & Pricing</h1>
-        <div className="px-3">
+        <h1 className="heading-main my-4">Package & Pricing</h1>
+        <div className="px-3 my-3">
           <q>
             Choose the support that fits your journey. With flexible packages
             starting from 4999 for four heartfelt sessions, finding a Bud who
