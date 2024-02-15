@@ -683,6 +683,11 @@ textarea {
         padding: .4rem 1rem;
     }
 
+    .d-image {
+        padding: 1rem 5rem;
+        height: 50dvh;
+    }
+
     .user-img {
         height: 150px;
         width: 200px;
